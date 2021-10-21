@@ -7,8 +7,8 @@ import DestinationSearch from './src/screens/DestinationSearch';
 export default function App() {
   return (
     <SafeAreaView>
-      {/*<Home />*/}
-      <DestinationSearch />
+        <Home />
+        {/*<DestinationSearch />*/}
       <StatusBar style="auto" />
     </SafeAreaView>
   );
